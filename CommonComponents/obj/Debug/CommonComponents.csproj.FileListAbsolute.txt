@@ -1,0 +1,5 @@
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\CommonComponents\obj\Debug\CommonComponents.csprojAssemblyReference.cache
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\CommonComponents\obj\Debug\CommonComponents.pdb

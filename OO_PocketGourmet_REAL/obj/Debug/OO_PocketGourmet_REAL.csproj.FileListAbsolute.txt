@@ -1,0 +1,8 @@
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\bin\Debug\OO_PocketGourmet_REAL.exe.config
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\bin\Debug\OO_PocketGourmet_REAL.exe
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\bin\Debug\OO_PocketGourmet_REAL.pdb
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\obj\Debug\OO_PocketGourmet_REAL.csprojAssemblyReference.cache
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\obj\Debug\OO_PocketGourmet_REAL.Properties.Resources.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\obj\Debug\OO_PocketGourmet_REAL.csproj.GenerateResource.cache
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\obj\Debug\OO_PocketGourmet_REAL.exe
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\OO_PocketGourmet_REAL\obj\Debug\OO_PocketGourmet_REAL.pdb
