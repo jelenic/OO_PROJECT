@@ -118,5 +118,12 @@ namespace ServicesLayer.Tests
                 _testOutputHelper.WriteLine(formatedJsonString);
             }
         }
+
+        [Fact]
+        public void ShouldReturnAdmin()
+        {
+            UserModel userModel = _userServices.GetByEmail("admin.admin@gmail.com");
+            Assert.Equal("admin.admin@gmail.com", userModel.UserEmail);
+        }
     }
 }
