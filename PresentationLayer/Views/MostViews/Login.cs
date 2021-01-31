@@ -38,6 +38,15 @@ namespace PresentationLayer.Views.MostViews
                 frm.Show();
                 this.Hide();
             }
+            else if(password == user.UserPassword && user.UserRestaurant != 0)
+            {
+                var frm = new UserForm(user.UserRestaurant);
+                frm.Location = this.Location;
+                frm.StartPosition = FormStartPosition.Manual;
+                frm.FormClosing += delegate { this.Show(); };
+                frm.Show();
+                this.Hide();
+            }
 
 
         }

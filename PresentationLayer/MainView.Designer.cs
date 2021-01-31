@@ -50,6 +50,7 @@
             this.btnGuest.TabIndex = 1;
             this.btnGuest.Text = "Guest";
             this.btnGuest.UseVisualStyleBackColor = true;
+            this.btnGuest.Click += new System.EventHandler(this.btnGuest_Click);
             // 
             // MainView
             // 

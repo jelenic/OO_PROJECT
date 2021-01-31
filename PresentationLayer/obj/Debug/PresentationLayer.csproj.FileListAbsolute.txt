@@ -28,3 +28,16 @@ C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\bin\Debug\OO
 C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\bin\Debug\ServiceLayer.pdb
 C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\bin\Debug\System.Data.SQLite.xml
 C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.Login.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.AddRestaurantForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.AdminForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.ListRestaurantsForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.UserControls.RestaurantItem.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.AddEmloyeeForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.AddMealForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.UserForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.ListMealsForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.UserControls.MealItem.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.ListRestaurantsGuestForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.UserControls.RestaurantItemGuest.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.MostViews.ListMealsGuestForm.resources
+C:\Users\Jakov\source\repos\OO_PocketGourmet_REAL\PresentationLayer\obj\Debug\PresentationLayer.Views.UserControls.MealItemGuest.resources

@@ -29,7 +29,17 @@ namespace PresentationLayer
             frm.StartPosition = FormStartPosition.Manual;
             frm.FormClosing += delegate { this.Show(); };
             frm.Show();
-            //this.Hide();
+            this.Hide();
+        }
+
+        private void btnGuest_Click(object sender, EventArgs e)
+        {
+            var frm = new ListRestaurantsGuestForm();
+            frm.Location = this.Location;
+            frm.StartPosition = FormStartPosition.Manual;
+            frm.FormClosing += delegate { this.Show(); };
+            frm.Show();
+            this.Hide();
         }
     }
 }

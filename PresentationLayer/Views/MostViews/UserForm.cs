@@ -10,16 +10,18 @@ using System.Windows.Forms;
 
 namespace PresentationLayer.Views.MostViews
 {
-    public partial class AdminForm : Form
+    public partial class UserForm : Form
     {
-        public AdminForm()
+        private int rID;
+        public UserForm(int id)
         {
+            rID = id;
             InitializeComponent();
         }
 
-        private void addRestaurantBtn_Click(object sender, EventArgs e)
+        private void addMealBtn_Click(object sender, EventArgs e)
         {
-            var frm = new AddRestaurantForm();
+            var frm = new AddMealForm(rID);
             frm.Location = this.Location;
             frm.StartPosition = FormStartPosition.Manual;
             frm.FormClosing += delegate { this.Show(); };
@@ -27,9 +29,9 @@ namespace PresentationLayer.Views.MostViews
             this.Hide();
         }
 
-        private void listRestaurantsBtn_Click(object sender, EventArgs e)
+        private void listMealsBtn_Click(object sender, EventArgs e)
         {
-            var frm = new ListRestaurantsForm();
+            var frm = new ListMealsForm(rID);
             frm.Location = this.Location;
             frm.StartPosition = FormStartPosition.Manual;
             frm.FormClosing += delegate { this.Show(); };
