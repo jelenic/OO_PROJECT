@@ -33,6 +33,10 @@
             // 
             // restaurantPanel
             // 
+            this.restaurantPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.restaurantPanel.AutoScroll = true;
             this.restaurantPanel.Location = new System.Drawing.Point(37, 31);
             this.restaurantPanel.Name = "restaurantPanel";
             this.restaurantPanel.Size = new System.Drawing.Size(560, 382);

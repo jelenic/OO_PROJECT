@@ -33,6 +33,10 @@
             // 
             // mealPanel
             // 
+            this.mealPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.mealPanel.AutoScroll = true;
             this.mealPanel.Location = new System.Drawing.Point(24, 12);
             this.mealPanel.Name = "mealPanel";
             this.mealPanel.Size = new System.Drawing.Size(513, 342);
